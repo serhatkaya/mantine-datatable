@@ -1,6 +1,0 @@
-.mantine-datatable-empty-row {
-  &,
-  .mantine-datatable-table[data-highlight-on-hover] tbody &:hover {
-    background: transparent;
-  }
-}
